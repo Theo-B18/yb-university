@@ -25,7 +25,7 @@ body {
 .navbar {
     border: 3px solid var(--bg-secondary);
     border-radius: 30px;
-    margin: 25px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
     background-color: var(--bg-ashes);
 }
 
@@ -186,4 +186,8 @@ body {
 
 .the_footer {
     margin-top: 75%;
+}
+
+hr {
+    color: red;
 }
